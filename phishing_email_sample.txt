@@ -1,5 +1,5 @@
 From: Support <support@msupdate.net>
-To: example@google.com
+To: victim@example.com
 Subject: Microsoft account password change
 Date: 24/06/2025
 
