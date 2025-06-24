@@ -23,7 +23,7 @@
 
 ## 📸 Annotated Screenshot
 
-See `screenshots/Spam.png` for a detailed visual highlighting all phishing indicators found in the email.
+See `spam_image/Spam.png` for a detailed visual highlighting all phishing indicators found in the email.
 
 ---
 
